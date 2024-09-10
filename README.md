@@ -7,6 +7,8 @@ The features will include:
 - Custom Business Logo
 - Organic signature capture
 - Completed waiver email
+- Data export via CSV
+- Administrative backend
 
 ##Stack
 - Sinatra
